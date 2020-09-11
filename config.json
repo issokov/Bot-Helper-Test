@@ -1,7 +1,10 @@
 {
-  "target_url": "https://github.com/JetBrains/kotlin",
+  "organisation": "JetBrains",
+  "repository": "kotlin",
   "branch": "master",
   "commits_count": 100,
   "drop_stop_words": true,
+  "drop_punctuation": false,
+  "make_tokens_lower": false,
   "dump_file_name": "commit_stats.txt"
 }
