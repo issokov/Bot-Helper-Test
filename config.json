@@ -1,0 +1,7 @@
+{
+  "target_url": "https://github.com/JetBrains/kotlin",
+  "branch": "master",
+  "commits_count": 100,
+  "drop_stop_words": true,
+  "dump_file_name": "commit_stats.txt"
+}
